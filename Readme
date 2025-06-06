@@ -1,0 +1,79 @@
+📊 Dashboard on Social Media Usage
+📘 Project Overview
+This project visualizes key metrics and trends from 5,000 social media posts across various platforms. The dashboard provides insights into views, shares, likes, comments, engagement levels, platform performance, and the impact of hashtags. It's designed to help marketers, analysts, and strategists optimize their social media content.
+
+🧾 Key Metrics
+Metric	Value
+Posts Analyzed	5,000
+Total Views	12 billion
+Total Shares	253 million
+Total Likes	1 billion
+Total Comments	124 million
+Average Engagement/Post	251.48K
+
+🖥️ Platform Insights
+🔝 Platforms by Views
+YouTube: 3.4B views
+
+TikTok: 3.2B views
+
+Twitter: 3.0B views
+
+Instagram: 2.9B views
+
+🌍 Region vs Platform Usage
+Each region’s usage (in billions) across platforms:
+
+Region	Instagram	TikTok	Twitter	YouTube
+USA	0.4B	0.5B	0.5B	0.5B
+Brazil	0.4B	0.5B	0.5B	0.4B
+UK	0.4B	0.4B	0.5B	0.5B
+Canada	0.4B	0.4B	0.4B	0.4B
+India	0.4B	0.5B	0.4B	0.5B
+Australia	0.4B	0.4B	0.4B	0.5B
+Germany	0.4B	0.3B	0.4B	0.4B
+Japan	0.4B	0.3B	0.4B	0.4B
+
+🏷️ Hashtag Analysis
+📌 Most Commented Hashtags
+Hashtag	Comments (in Millions)
+#Fitness	13.1M
+#Education	13.0M
+#Challenge	12.8M
+#Tech	12.7M
+#Comedy	12.5M
+#Music	12.3M
+#Dance	12.2M
+#Gaming	12.1M
+#Viral	11.9M
+
+📈 Top 5 Hashtags by Engagement
+Hashtag	Engagement (Millions)
+#Fitness	176M
+#Tech	164M
+#Music	160M
+#Viral	156M
+#Gaming	153M
+
+📊 Engagement Level Distribution
+Engagement Level	Count	Percentage
+Low	1.6K	31.96%
+Medium	1.67K	33.46%
+High	1.73K	34.58%
+
+🗺️ Visual Features
+Bar Charts: Platform views, hashtags
+
+Treemaps: Engagement by hashtag
+
+Donut Chart: Engagement level breakdown
+
+Region-wise comparison matrix
+
+🛠️ Tools Used
+Power BI / Tableau / Excel for visualization
+
+Data from Social Media APIs or Analytics Platforms
+
+Basic Data Cleaning & Transformation (optional: Python or SQL)
+
